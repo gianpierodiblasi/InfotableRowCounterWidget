@@ -1,6 +1,8 @@
 # InfotableRowCounterWidget
 An extension to get the rows number of an infotable.
 
+**This Extension is provided as-is and without warranty or support. It is not part of the PTC product suite and there is no PTC support.**
+
 ## Description
 This extension provides a widget to get the rows number of an infotable.
 
